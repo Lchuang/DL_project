@@ -8,5 +8,5 @@ Reference papers
 Tensorflow Example of Barlow Twins:
 https://github.com/sayakpaul/Barlow-Twins-TF/blob/main/Barlow_Twins.ipynb
 
-Overleaf to project paper
+Project paper
 https://www.overleaf.com/project/61771bdf453cd424e20f8e7b
