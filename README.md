@@ -10,3 +10,6 @@ https://github.com/sayakpaul/Barlow-Twins-TF/blob/main/Barlow_Twins.ipynb
 
 Project paper
 https://www.overleaf.com/project/61771bdf453cd424e20f8e7b
+
+Google colab
+https://colab.research.google.com/drive/1h7krir7mkrsOn7bwHl8tYm1dix2wJD5k?usp=sharing
