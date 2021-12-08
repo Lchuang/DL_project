@@ -1,4 +1,4 @@
-Run Barlow-twins_PS.ipynb for model trainin
+Run Barlow-twins_PS.ipynb for model training
 
 Run EmbeddingEval.ipynb for embedding evaluation
 
