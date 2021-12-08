@@ -1,3 +1,5 @@
+Run Barlow-twins_PS.ipynb for model trainin
+
 # DL_project
 
 Reference papers
