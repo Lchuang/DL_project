@@ -1,4 +1,7 @@
 Run Barlow-twins_PS.ipynb for model trainin
+Run EmbeddingEval.ipynb for embedding evaluation
+
+For dataset used in this study please contact Lindsay Chuang (ychuang35@gatech.edu)
 
 # DL_project
 
