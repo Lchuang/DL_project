@@ -4,6 +4,8 @@ Run EmbeddingEval.ipynb for embedding evaluation
 
 For dataset used in this study please contact Lindsay Chuang (ychuang35@gatech.edu)
 
+bt_model.h5 : barlow-twins encoder model
+
 # DL_project
 
 Reference papers
