@@ -4,7 +4,8 @@ Run EmbeddingEval.ipynb for embedding evaluation
 
 For dataset used in this study please contact Lindsay Chuang (ychuang35@gatech.edu)
 
-bt_model.h5 : barlow-twins encoder model
+bt_model.h5: barlow-twins encoder model
+0020.ckpt.zip: Resnet style autoencoder model
 
 # DL_project
 
